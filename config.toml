@@ -10,6 +10,8 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv/"
 
 [ml.docilealligator.infinityforreddit]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/"
+apkmirror-dpi = "120-640dpi"
 
 [com.tumblr]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
+apkmirror-dpi = "120-640dpi"
