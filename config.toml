@@ -14,7 +14,10 @@ uptodown-dlurl = "https://pixiv.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/"
 apkmirror-dpi = "120-640dpi"
 uptodown-dlurl = "https://infinity-for-reddit.en.uptodown.com/android"
+# https://github.com/j-hc/revanced-magisk-module/issues/528
 patcher-args = "-Oclient-id=WvoTj1mBciSr1k3Iuql-Hg"
+# https://github.com/j-hc/revanced-magisk-module/issues/535
+included-patches = "'Spoof client' 'Unlock subscription'"
 
 [tumblr]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
