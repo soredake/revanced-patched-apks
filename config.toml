@@ -15,7 +15,7 @@ uptodown-dlurl = "https://pixiv.en.uptodown.com/android"
 #uptodown-dlurl = "https://infinity-for-reddit.en.uptodown.com/android"
 apkmirror-dpi = "120-640dpi"
 # NOTE: apkmirror and uptodown sources cannot be used as they provide google play version (it crashes after patching), patreon version should be used, that's why I use archive.org
-archive-dlurl = "https://archive.org/details/latest-infinity-patreon-for-revanced"
+archive-dlurl = "https://archive.org/download/latest-infinity-patreon-for-revanced"
 # https://github.com/j-hc/revanced-magisk-module/issues/528
 patcher-args = "-Oclient-id=WvoTj1mBciSr1k3Iuql-Hg"
 # https://github.com/j-hc/revanced-magisk-module/issues/535
