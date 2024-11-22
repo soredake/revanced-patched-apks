@@ -17,7 +17,8 @@ uptodown-dlurl = "https://infinity-for-reddit.en.uptodown.com/android"
 # https://github.com/j-hc/revanced-magisk-module/issues/528
 patcher-args = "-Oclient-id=WvoTj1mBciSr1k3Iuql-Hg"
 # https://github.com/j-hc/revanced-magisk-module/issues/535
-included-patches = "'Spoof client' 'Unlock subscription'"
+included-patches = "'Spoof client'"
+#included-patches = "'Spoof client' 'Unlock subscription'"
 
 [tumblr]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
