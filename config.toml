@@ -11,13 +11,14 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv/"
 uptodown-dlurl = "https://pixiv.en.uptodown.com/android"
 
 [infinityforreddit]
-#apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/"
 #uptodown-dlurl = "https://infinity-for-reddit.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/"
+apkmirror-dpi = "nodpi"
 #apkmirror-dpi = "120-640dpi"
 # NOTE: apkmirror and uptodown sources cannot be used as they provide google play version (it crashes after patching), non-patreon version from github should be used, that's why I use archive.org, use "Show All" button, and remove final slash
 # Example format: https://github.com/j-hc/revanced-magisk-module/blob/453c404c3c899332887e5ec96833f1a93a34d508/config.toml#L15
 # https://github.com/j-hc/revanced-magisk-module/issues/536
-archive-dlurl = "https://archive.org/download/latest-infinity-patreon-for-revanced/apks/ml.docilealligator.infinityforreddit"
+#archive-dlurl = "https://archive.org/download/latest-infinity-patreon-for-revanced/apks/ml.docilealligator.infinityforreddit"
 # https://github.com/j-hc/revanced-magisk-module/issues/528
 patcher-args = "-Oclient-id=WvoTj1mBciSr1k3Iuql-Hg"
 # https://github.com/j-hc/revanced-magisk-module/issues/535
