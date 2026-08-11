@@ -12,7 +12,9 @@ uptodown-dlurl = "https://pixiv.en.uptodown.com/android"
 patches-source = "RookieEnough/De-Vanced"
 cli-source = "MorpheApp/morphe-desktop"
 
+# no need for patching anymore, see https://github.com/cygnusx-1-org/continuum
 [infinityforreddit]
+enabled = false
 #uptodown-dlurl = "https://infinity-for-reddit.en.uptodown.com/android"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit-plus/"
