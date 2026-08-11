@@ -9,6 +9,8 @@ dpi = "nodpi anydpi 120-640dpi"
 [pixiv]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv/"
 uptodown-dlurl = "https://pixiv.en.uptodown.com/android"
+patches-source = "RookieEnough/De-Vanced"
+cli-source = "MorpheApp/morphe-desktop"
 
 [infinityforreddit]
 #uptodown-dlurl = "https://infinity-for-reddit.en.uptodown.com/android"
@@ -26,3 +28,5 @@ included-patches = "'Spoof client'"
 [tumblr]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
 uptodown-dlurl = "https://tumblr.en.uptodown.com/android"
+patches-source = "RookieEnough/De-Vanced"
+cli-source = "MorpheApp/morphe-desktop"
